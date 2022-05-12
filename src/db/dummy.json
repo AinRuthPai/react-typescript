@@ -1,0 +1,22 @@
+{
+  "boards": [
+    {
+      "id": 1,
+      "time": "May 10, 2022",
+      "boardTitle": "Test_Title_01",
+      "boardInfo": "Test_Info_01"
+    },
+    {
+      "id": 2,
+      "time": "May 10, 2022",
+      "boardTitle": "Test_Title_02",
+      "boardInfo": "Test_Info_02"
+    },
+    {
+      "id": 3,
+      "time": "May 10, 2022",
+      "boardTitle": "Test_Title_03",
+      "boardInfo": "Test_Info_03"
+    }
+  ]
+}
